@@ -1,0 +1,132 @@
+C:\Documents and Settings\PC -16\Local Settings\Application Data\Temporary Projects\atmsystem\bin\Debug\atmsystem.exe
+C:\Documents and Settings\PC -16\Local Settings\Application Data\Temporary Projects\atmsystem\bin\Debug\atmsystem.pdb
+C:\Documents and Settings\PC -16\Local Settings\Application Data\Temporary Projects\atmsystem\bin\Debug\atmsystem.xml
+C:\Documents and Settings\PC -16\Local Settings\Application Data\Temporary Projects\atmsystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\PC -16\Local Settings\Application Data\Temporary Projects\atmsystem\obj\Debug\atmsystem.Login_frm.resources
+C:\Documents and Settings\PC -16\Local Settings\Application Data\Temporary Projects\atmsystem\obj\Debug\atmsystem.Resources.resources
+C:\Documents and Settings\PC -16\Local Settings\Application Data\Temporary Projects\atmsystem\obj\Debug\atmsystem.vbproj.GenerateResource.Cache
+C:\Documents and Settings\PC -16\Local Settings\Application Data\Temporary Projects\atmsystem\obj\Debug\atmsystem.exe
+C:\Documents and Settings\PC -16\Local Settings\Application Data\Temporary Projects\atmsystem\obj\Debug\atmsystem.xml
+C:\Documents and Settings\PC -16\Local Settings\Application Data\Temporary Projects\atmsystem\obj\Debug\atmsystem.pdb
+C:\Documents and Settings\PC -16\Local Settings\Application Data\Temporary Projects\atmsystem\obj\Debug\atmsystem.Regs_frm.resources
+E:\atmsystem\atmsystem\obj\Debug\atmsystem.exe
+E:\atmsystem\atmsystem\obj\Debug\atmsystem.xml
+E:\atmsystem\atmsystem\obj\Debug\atmsystem.pdb
+E:\atmsystem\atmsystem\bin\Debug\atmsystem.exe
+E:\atmsystem\atmsystem\bin\Debug\atmsystem.pdb
+E:\atmsystem\atmsystem\bin\Debug\atmsystem.xml
+E:\atmsystem\atmsystem\obj\Debug\ResolveAssemblyReference.cache
+E:\atmsystem\atmsystem\obj\Debug\atmsystem.AdminForm.resources
+E:\atmsystem\atmsystem\obj\Debug\atmsystem.Login_frm.resources
+E:\atmsystem\atmsystem\obj\Debug\atmsystem.Regs_frm.resources
+E:\atmsystem\atmsystem\obj\Debug\atmsystem.Resources.resources
+E:\atmsystem\atmsystem\obj\Debug\atmsystem.vbproj.GenerateResource.Cache
+D:\FHEV\atmsystem\atmsystem\obj\Debug\atmsystem.exe
+D:\FHEV\atmsystem\atmsystem\obj\Debug\atmsystem.xml
+D:\FHEV\atmsystem\atmsystem\obj\Debug\atmsystem.pdb
+D:\FHEV\atmsystem\atmsystem\bin\Debug\atmsystem.exe
+D:\FHEV\atmsystem\atmsystem\bin\Debug\atmsystem.pdb
+D:\FHEV\atmsystem\atmsystem\bin\Debug\atmsystem.xml
+D:\FHEV\atmsystem\atmsystem\obj\Debug\ResolveAssemblyReference.cache
+D:\FHEV\atmsystem\atmsystem\obj\Debug\atmsystem.AdminForm.resources
+D:\FHEV\atmsystem\atmsystem\obj\Debug\atmsystem.Login_frm.resources
+D:\FHEV\atmsystem\atmsystem\obj\Debug\atmsystem.Regs_frm.resources
+D:\FHEV\atmsystem\atmsystem\obj\Debug\atmsystem.Resources.resources
+D:\FHEV\atmsystem\atmsystem\obj\Debug\atmsystem.vbproj.GenerateResource.Cache
+D:\FHEV\atmsystem\atmsystem\obj\Debug\atmsystem.Mainmenu.resources
+D:\bryan\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.exe
+D:\bryan\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.xml
+D:\bryan\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.pdb
+D:\bryan\atmsystem on 192.168.1.205\atmsystem\bin\Debug\atmsystem.exe
+D:\bryan\atmsystem on 192.168.1.205\atmsystem\bin\Debug\atmsystem.pdb
+D:\bryan\atmsystem on 192.168.1.205\atmsystem\bin\Debug\atmsystem.xml
+D:\bryan\atmsystem on 192.168.1.205\atmsystem\obj\Debug\ResolveAssemblyReference.cache
+D:\bryan\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.AdminForm.resources
+D:\bryan\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.Login_frm.resources
+D:\bryan\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.Regs_frm.resources
+D:\bryan\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.Mainmenu.resources
+D:\bryan\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.Resources.resources
+D:\bryan\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.vbproj.GenerateResource.Cache
+D:\bryan\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.Balanceinq.resources
+D:\bryan\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.Withdraw.resources
+D:\bryan\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.Receipt.resources
+D:\bryan\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.Deposit.resources
+E:\drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.exe
+E:\drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.xml
+E:\drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.pdb
+E:\drapite\atmsystem on 192.168.1.205\atmsystem\bin\Debug\atmsystem.exe
+E:\drapite\atmsystem on 192.168.1.205\atmsystem\bin\Debug\atmsystem.pdb
+E:\drapite\atmsystem on 192.168.1.205\atmsystem\bin\Debug\atmsystem.xml
+E:\drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\ResolveAssemblyReference.cache
+E:\drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.AdminForm.resources
+E:\drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.Balanceinq.resources
+E:\drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.Deposit.resources
+E:\drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.Login_frm.resources
+E:\drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.Regs_frm.resources
+E:\drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.Mainmenu.resources
+E:\drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.Resources.resources
+E:\drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.Receipt.resources
+E:\drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.Withdraw.resources
+E:\drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.vbproj.GenerateResource.Cache
+D:\Drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.exe
+D:\Drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.xml
+D:\Drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.pdb
+D:\Drapite\atmsystem on 192.168.1.205\atmsystem\bin\Debug\atmsystem.exe
+D:\Drapite\atmsystem on 192.168.1.205\atmsystem\bin\Debug\atmsystem.pdb
+D:\Drapite\atmsystem on 192.168.1.205\atmsystem\bin\Debug\atmsystem.xml
+D:\Drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\ResolveAssemblyReference.cache
+D:\Drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.AdminForm.resources
+D:\Drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.Balanceinq.resources
+D:\Drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.Deposit.resources
+D:\Drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.Login_frm.resources
+D:\Drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.Regs_frm.resources
+D:\Drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.Mainmenu.resources
+D:\Drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.Resources.resources
+D:\Drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.Receipt.resources
+D:\Drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.Withdraw.resources
+D:\Drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.vbproj.GenerateResource.Cache
+E:\New Folder\Drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.exe
+E:\New Folder\Drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.xml
+E:\New Folder\Drapite\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.pdb
+D:\bryan\atmsystem on 192.168.1.205\atmsystem\obj\Debug\atmsystem.transreceipt.resources
+C:\Users\jokenvillanueva\Desktop\Selected mini system\Bryan Drapite Files\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.exe
+C:\Users\jokenvillanueva\Desktop\Selected mini system\Bryan Drapite Files\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.xml
+C:\Users\jokenvillanueva\Desktop\Selected mini system\Bryan Drapite Files\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.pdb
+F:\Sem.4\VB.net Trials\atmsystem of Bryan Drapite\atmsystem\bin\Debug\atmsystem.exe
+F:\Sem.4\VB.net Trials\atmsystem of Bryan Drapite\atmsystem\bin\Debug\atmsystem.pdb
+F:\Sem.4\VB.net Trials\atmsystem of Bryan Drapite\atmsystem\bin\Debug\atmsystem.xml
+F:\Sem.4\VB.net Trials\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.vbprojResolveAssemblyReference.cache
+F:\Sem.4\VB.net Trials\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.AdminForm.resources
+F:\Sem.4\VB.net Trials\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.Balanceinq.resources
+F:\Sem.4\VB.net Trials\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.Deposit.resources
+F:\Sem.4\VB.net Trials\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.Login_frm.resources
+F:\Sem.4\VB.net Trials\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.Regs_frm.resources
+F:\Sem.4\VB.net Trials\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.Mainmenu.resources
+F:\Sem.4\VB.net Trials\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.Resources.resources
+F:\Sem.4\VB.net Trials\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.Receipt.resources
+F:\Sem.4\VB.net Trials\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.transreceipt.resources
+F:\Sem.4\VB.net Trials\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.Withdraw.resources
+F:\Sem.4\VB.net Trials\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.vbproj.GenerateResource.Cache
+F:\Sem.4\VB.net Trials\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.vbproj.CoreCompileInputs.cache
+F:\Sem.4\VB.net Trials\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.exe
+F:\Sem.4\VB.net Trials\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.xml
+F:\Sem.4\VB.net Trials\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.pdb
+F:\Sem.4\extra vs code\atmsystem of Bryan Drapite\atmsystem\bin\Debug\atmsystem.exe
+F:\Sem.4\extra vs code\atmsystem of Bryan Drapite\atmsystem\bin\Debug\atmsystem.pdb
+F:\Sem.4\extra vs code\atmsystem of Bryan Drapite\atmsystem\bin\Debug\atmsystem.xml
+F:\Sem.4\extra vs code\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.vbprojResolveAssemblyReference.cache
+F:\Sem.4\extra vs code\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.AdminForm.resources
+F:\Sem.4\extra vs code\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.Balanceinq.resources
+F:\Sem.4\extra vs code\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.Deposit.resources
+F:\Sem.4\extra vs code\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.Login_frm.resources
+F:\Sem.4\extra vs code\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.Regs_frm.resources
+F:\Sem.4\extra vs code\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.Mainmenu.resources
+F:\Sem.4\extra vs code\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.Resources.resources
+F:\Sem.4\extra vs code\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.Receipt.resources
+F:\Sem.4\extra vs code\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.transreceipt.resources
+F:\Sem.4\extra vs code\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.Withdraw.resources
+F:\Sem.4\extra vs code\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.vbproj.GenerateResource.Cache
+F:\Sem.4\extra vs code\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.vbproj.CoreCompileInputs.cache
+F:\Sem.4\extra vs code\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.exe
+F:\Sem.4\extra vs code\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.xml
+F:\Sem.4\extra vs code\atmsystem of Bryan Drapite\atmsystem\obj\Debug\atmsystem.pdb
